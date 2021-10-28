@@ -6,7 +6,8 @@
 
 ## Contato
 
-Rodrigo Passos
+- Rodrigo Passos
+
 Linkedin:  [br.linkedin.com/in/rodrigojbp](http://br.linkedin.com/in/rodrigojbp)
 
 Github:  [github.com/rodrigojbp](https://github.com/rodrigojbp)
